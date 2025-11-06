@@ -20,21 +20,9 @@ useful for:
 
 ## 📂 Repository Structure
 
-Java-Oops-Projects/
-│── Encapsulation/
-│ ├── ATM.java
-│ ├── ShoppingCart.java
-│
-│── Inheritance/
-│ ├── CollegeManagementSystem.java
-│ ├── VehicleManagement.java
-│
-│── Polymorphism/
-│ ├── PaymentSystem.java
-│ ├── ShapeAreaCalculator.java
-│
-│── Abstraction/
-│ ├── BankOperations.java
-│ ├── EmployeePayroll.java
-│
-└── README.md
+Java-OOP-Projects/ 
+ ├── inheritance-college-management
+ ├── inheritance-food-delivery 
+ ├── inheritance-smart-home 
+ ├── inheritance-employee-bonus 
+ └── inheritance-ecommerce-return-system.
