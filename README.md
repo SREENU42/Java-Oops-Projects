@@ -26,3 +26,9 @@ Java-OOP-Projects/
  ├── inheritance-smart-home 
  ├── inheritance-employee-bonus 
  └── inheritance-ecommerce-return-system.
+
+ - `Encapsulation-Bank-account-managment-System`
+- `Encapsulation-Employee-Salary-Management`
+- `Encapsulation-Library-Book-Tracker`
+- `Encapsulation-Product-Inventory-System`
+- `Encapsulation-Student-Grade-System`
