@@ -21,11 +21,12 @@ useful for:
 ## 📂 Repository Structure
 
 Java-OOP-Projects/ 
- ├── inheritance-college-management
- ├── inheritance-food-delivery 
- ├── inheritance-smart-home 
- ├── inheritance-employee-bonus 
- └── inheritance-ecommerce-return-system.
+ - `inheritance-college-management`
+- `inheritance-food-delivery`
+- `inheritance-smart-home`
+- `inheritance-employee-bonus`
+- `inheritance-ecommerce-return-system`
+
 
  - `Encapsulation-Bank-account-managment-System`
 - `Encapsulation-Employee-Salary-Management`
