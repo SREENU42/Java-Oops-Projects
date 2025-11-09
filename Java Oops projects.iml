@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation-Bank-account-managment-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation-Employee-Salary-Management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation-Library-Book-Tracker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation-Product-Inventory-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encapsulation-Student-Grade-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Polymorphism-Online-Notification-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Polymorphism-Shape-Area-Calculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Polymorphism-Vechicle-Rental-System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-college-management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-ecommerce-return-system" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-employee-bonus" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-food-delivery" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance-smart-home" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
